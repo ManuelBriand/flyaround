@@ -1,3 +1,4 @@
 wcs_coav_homepage:
     path:     /
     defaults: { _controller: WCSCoavBundle:Default:index }
+
